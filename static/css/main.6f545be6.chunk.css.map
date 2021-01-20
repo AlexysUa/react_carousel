@@ -1,1 +1,0 @@
-{"version":3,"sources":["Carousel.css"],"names":[],"mappings":"AAAA,gBACE,YAAa,CACb,eAAgB,CAChB,uBAAuB,CAAvB,sBAAuB,CACvB,eACF","file":"main.6f545be6.chunk.css","sourcesContent":[".Carousel__list {\n  display: flex;\n  list-style: none;\n  padding-inline-start: 0;\n  overflow: hidden;\n}\n"]}
